@@ -1,0 +1,19 @@
+node_modules/
+dist/
+cache/
+*.log
+.env
+
+# 运行配置与密钥（不公开，从 config.example.json 复制后填写）
+data/config.json
+
+# 内容语料 / 扩展文章 / AI 重写结果（保留，不随源码公开）
+data/corpus.json
+data/extended-corpus.json
+data/rewrites/
+scripts/extended/
+
+# 部署配置（含服务器路径，不公开）
+infra/
+
+.DS_Store

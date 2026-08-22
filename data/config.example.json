@@ -1,0 +1,27 @@
+{
+  "brand": "林师傅专业吊装",
+  "teamName": "韶关本地林师傅专业吊车团队",
+  "brandSuffix": "林师傅专业吊装24小时吊车租用公司",
+  "phone": "13726557418",
+  "phoneDashed": "137-2655-7418",
+  "domain": "016.wiki",
+  "icp": "粤ICP备2022149862号-2",
+  "address": "广东省韶关市",
+  "year": 2026,
+  "lastmod": "",
+  "indexnowKey": "",
+  "serveAllSites": false,
+  "server": {
+    "port": 3000
+  },
+  "cache": {
+    "enabled": true,
+    "maxEntries": 2000,
+    "diskDir": "cache"
+  },
+  "ai": {
+    "baseUrl": "https://api.openai.com/v1",
+    "apiKey": "",
+    "model": "gpt-4o-mini"
+  }
+}

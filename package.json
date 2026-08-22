@@ -1,0 +1,10 @@
+{
+  "name": "linshifu-site-generator",
+  "version": "2.0.0",
+  "private": true,
+  "type": "commonjs",
+  "description": "林师傅专业吊装 · 吊车租赁站群（源码展示）",
+  "engines": {
+    "node": ">=18"
+  }
+}
